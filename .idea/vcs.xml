@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/imutils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lazy-load" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lazy-loader" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lazy_load" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python-arabic-reshaper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python-bidi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python_bidi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tesseract" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tesseract-ocr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tesseract-ocr-ara" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tesseract-ocr-ara.tessdata" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tesseract-ocr-hin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tesseract-ocr-hin.tessdata" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tesseract-ocr.tessdata" vcs="Git" />
+  </component>
+</project>
